@@ -1,3 +1,19 @@
+"""
+Day 02 — Class method (decorator)
+Phase 1, Week 1 | AI Learning Journey
+Date: 23 March 2026
+
+What I learned:
+- It is slight different then regular methods which has convention 'self'
+- Class method allows it to automatically take the class as its first argument 
+- use of @classmethod (decorator)
+- cls is its common convention 
+
+What was confusing:
+- How to update class variable and why cant that be done through instance method?
+"""
+
+
 class Employee:
     no_of_emp = 0
     raise_amount = 1.04

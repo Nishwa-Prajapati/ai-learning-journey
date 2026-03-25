@@ -1,14 +1,16 @@
 """
-Day 01 — Class and instance vraibale
+Day 01 — Class and instance variable
 Phase 1, Week 1 | AI Learning Journey
 Date: 22 March 2026
 
 What I learned:
-- defining class and objects
-- __init__ constructor
+- Difference between class and instance variable. Might me here it is not exactly shown but,
+- Class variables that are shared among all instances of the class
+- instance variables can be unique for each instance like name, age, grade etc.
+- Use of __dict__ 
 
 What was confusing:
-- How this different return statement works
+- Why we cant access class variables through instance variables ?
 """
 
 

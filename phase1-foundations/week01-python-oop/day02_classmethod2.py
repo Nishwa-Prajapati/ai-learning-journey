@@ -1,3 +1,15 @@
+"""
+Day 02 — Class method (decorator)
+Phase 1, Week 1 | AI Learning Journey
+Date: 24 March 2026
+
+What I learned:
+- Slight different usage of class method here 
+
+What was confusing:
+- Why are we exactl doing this ?
+"""
+
 # class method as an alternative constructor (split by -)
 
 class Employee:

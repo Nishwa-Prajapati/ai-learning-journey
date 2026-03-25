@@ -1,3 +1,18 @@
+"""
+Day 02 — Static method (decorator)
+Phase 1, Week 1 | AI Learning Journey
+Date: 24 March 2026
+
+What I learned:
+- @staticmethod (decorator )usage
+- Got no such specific common convention 
+- importing modules
+
+What was confusing:
+- how this weekdays are inbuild set from 0 to 6?
+"""
+
+
 import datetime
 
 class CheckDay:
