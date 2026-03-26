@@ -1,3 +1,15 @@
+"""
+Day 03 — Static method (decorator)
+Phase 1, Week 1 | AI Learning Journey
+Date: 25 March 2026
+
+What I learned:
+- Property decorator -> @property , @____.setter and @___.deleter
+- how to use a method as an attribut and not using parathesis at the end
+- how to make quick change without deleting or making changes all over the place on code
+
+"""
+
 class Employee:
 
     def __init__(self, first, last, pay):
@@ -36,6 +48,7 @@ print(emp1.email) #now the email is changed but what if i want to set new full n
 print(emp1.fullname)
 
 #after changed fullname and impacting everywhere, what if i want to delet the fullname -> use deleter
+
 del emp1.fullname
 
 print(emp1.fullname)
