@@ -1,3 +1,13 @@
+"""
+Day 04 — Datatypes
+Phase 1, Week 1 | AI Learning Journey
+Date: 4 April 2026
+
+What I learned:
+- Recalling the basics 
+
+"""
+
 #Datatypes 
 
 #basic arithmetic
