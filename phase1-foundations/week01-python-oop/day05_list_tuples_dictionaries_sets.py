@@ -1,5 +1,5 @@
 """
-Day 04 — List, Tuples, Dictionaries, Set
+Day 05 — List, Tuples, Dictionaries, Set
 Phase 1, Week 1 | AI Learning Journey
 Date: 6 April 2026
 
