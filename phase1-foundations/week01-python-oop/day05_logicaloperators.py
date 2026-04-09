@@ -12,7 +12,7 @@ x = 23
 y = 2
 z = 2
 
-print((x==y) or (y==z)) #either one should be tru to return true 
+print((x==y) or (y==z)) #either one should be true to return true 
 print((x==y) and (y==z)) #  both has to be true to return true 
 print(not(x==z))
 print(not(y==z))
