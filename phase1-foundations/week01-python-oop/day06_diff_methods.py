@@ -33,3 +33,10 @@ print(my_list.count(2))
 
 my_str = "Hello, hi, Hello, hello, hi, HIEEE"
 print(my_str.count('h'))
+
+# KEY, VALUES, ITEMS method
+
+dict_items = {'apple' : 2, 'banana' : 3, 'orange' : 4}
+print(dict_items.keys())
+print(dict_items.values())
+print(dict_items.items())
