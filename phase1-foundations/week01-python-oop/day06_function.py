@@ -4,7 +4,7 @@ Phase 1, Week 1 | AI Learning Journey
 Date: 9 April 2026
 
 What I learned:
-- recalling basics.
+- recalling basics (different types of function)
 
 """
 
