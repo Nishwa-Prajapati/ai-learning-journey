@@ -40,3 +40,4 @@ dict_items = {'apple' : 2, 'banana' : 3, 'orange' : 4}
 print(dict_items.keys())
 print(dict_items.values())
 print(dict_items.items())
+
