@@ -4,7 +4,7 @@ Phase 1, Week 1 | AI Learning Journey
 Date: 11 April 2026
 
 What I learned:
-- recalling basics. (different attributes : extend, insert, )
+- recalling basics. (different attributes : extend, insert, set default)
 
 """
 
@@ -32,4 +32,6 @@ print(set_default_value)
 
 print_default_value = my_default.setdefault('C', "C not present")
 print(print_default_value)
+
+
 
